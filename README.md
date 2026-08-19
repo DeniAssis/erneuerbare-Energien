@@ -147,4 +147,4 @@ und angepasst.
 ## Autorin
 
 **Denise De Assis** · Data Analyst / Data Scientist
-[LinkedIn]([https://www.linkedin.com/in/prof-dr-denise-assis-24693621/) · [GitHub](https://github.com/DeniAssis)
+[LinkedIn](https://www.linkedin.com/in/prof-dr-denise-assis-24693621/) · [GitHub](https://github.com/DeniAssis)
