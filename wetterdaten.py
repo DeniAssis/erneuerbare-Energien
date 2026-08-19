@@ -42,7 +42,7 @@ API_URL = "https://api.open-meteo.com/v1/forecast"
 
 
 def hole_wetterdaten(name: str, lat: float, lon: float) -> list[dict]:
-    """Fragt Stundenwerte fuer einen Standort ab und gibt sie als Liste von Dicts zurueck."""
+    """Fragt Stundenwerte für einen Standort ab und gibt sie als Liste von Dicts zurück."""
     parameter = {
         "latitude": lat,
         "longitude": lon,
