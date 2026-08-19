@@ -52,10 +52,10 @@ Reussenköge                16.9         15.3      30.3             164.8       
 Stuttgart                  21.7          6.7      14.8             148.1          10664.0                      66
 Beste Einstrahlung am 19.08.2026 08:58: Reussenköge mit 11.9 kWh/m²
 Schwächste Einstrahlung am 19.08.2026 08:58 : Osnabrück mit 8.5 kWh/m²
-
+```
 Hinweis: Die Werte beruhen auf einer 3-Tages-Prognose und sind daher wetterabhängig, nicht klimatologisch
 repräsentativ. Für belastbare Standortvergleiche würde man mehrjährige historische Daten heranziehen.
-```
+
 ## Installation
 
 ```bash
