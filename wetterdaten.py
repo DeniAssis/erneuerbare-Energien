@@ -23,7 +23,7 @@ import pandas as pd
 from datetime import datetime
 
 
-# Standorte als Dictionary: Name -> Koordinaten
+# Standorte als Dictionary: Name -> Koordinaten (Breitengrad, Längengrad)
 # (Dictionary statt Liste, weil wir per Name zugreifen wollen)
 STANDORTE = {
     "Oberstdorf":   (47.41, 10.28),
