@@ -133,7 +133,7 @@ Auch die JSON-Struktur wird geprüft, bevor auf Schlüssel zugegriffen wird.
 
 Wetterdaten: [Open-Meteo](https://open-meteo.com) – freie API, keine Anmeldung
 erforderlich, für nicht-kommerzielle Nutzung kostenlos.
-[Beispielabfrage im Browser öffnen](https://api.open-meteo.com/v1/forecast?latitude=48.37&longitude=10.90&hourly=temperature_2m&timezone=Europe/Berlin)
+[Beispielabfrage für alle zehn Standorte](https://api.open-meteo.com/v1/forecast?latitude=47.41,54.62,52.28,47.75,48.14,48.10,48.78,54.48,48.37,53.55&longitude=10.28,8.90,8.05,10.31,11.58,10.90,9.18,9.05,10.90,9.99&hourly=temperature_2m,wind_speed_10m,shortwave_radiation&forecast_days=3&timezone=Europe/Berlin)
 
 ---
 
