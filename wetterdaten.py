@@ -56,7 +56,7 @@ def hole_wetterdaten(name: str, lat: float, lon: float) -> list[dict]:
         antwort.raise_for_status()          # wirft Fehler bei Status 4xx/5xx
         daten = antwort.json()
     except requests.exceptions.Timeout:
-        print(f"  {name}: Zeitueberschreitung – Standort wird uebersprungen.")
+        print(f"  {name}: Zeitüberschreitung – Standort wird übersprungen.")
         return []
     except requests.exceptions.RequestException as fehler:
         print(f"  {name}: Abfrage fehlgeschlagen ({fehler}).")
