@@ -56,8 +56,8 @@ Schwächste Einstrahlung am 19.08.2026 08:58 : Osnabrück mit 8.5 kWh/m²
 ## Installation
 
 ```bash
-git clone https://github.com/DeniAssis/[REPOSITORY-NAME].git
-cd [REPOSITORY-NAME]
+git clone https://github.com/DeniAssis/erneuerbare-Energien.git
+cd erneuerbare-Energien
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
